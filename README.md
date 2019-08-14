@@ -1,5 +1,5 @@
 # React-tindev-frontend
 
-# Content project created by @rocketseat
+ Content project created by @rocketseat
 
-<img src="tinder.gif">
+![alt text](https://raw.githubusercontent.com/thurdelima/React-tindev-frontend/master/tindev.gif)
